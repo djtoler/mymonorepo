@@ -1,5 +1,5 @@
 {
   "extends": "tsconfig/react-library.json",
-  "include": ["."],
+  "include": [".", "../../components/Button2.tsx"],
   "exclude": ["dist", "build", "node_modules"]
 }
